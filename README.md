@@ -1,7 +1,7 @@
 🧮 Fun Console Apps: Calculator & Personalized Greeting 🎉
 Welcome to a fun and educational Python mini-project that includes two interactive console-based applications:
 
-Fun Calculator
+Fun Calculator;
 
 Personalized Greeting App
 
